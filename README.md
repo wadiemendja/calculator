@@ -8,8 +8,8 @@ If you want to learn JavaScript or improve your JavaScript skill this is a must 
 
 Watch : How to make a simple calculator using html, css and javascript Part I
 
-[![Watch the video](https://imgur.com/dhYw6mw.png)](https://youtu.be/TwcEWQfsJLA)
+[![Watch the video](https://imgur.com/2YWRQsQ.jpg)](https://youtu.be/TwcEWQfsJLA)
 
 Watch : How to make a simple calculator using html, css and javascript Part II
 
-[![Watch the video](https://imgur.com/PONJWqB.png)](https://youtu.be/0oHbqoj8T5I)
+[![Watch the video](https://imgur.com/V0l90ev.jpg)](https://youtu.be/0oHbqoj8T5I)
