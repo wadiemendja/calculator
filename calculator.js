@@ -1,17 +1,15 @@
+           var actions = document.getElementById("actions").innerHTML;
+           var result = document.getElementById("screen").innerHTML;
+
            function display(id) {
-                
-                let save = document.getElementById("actions").innerHTML ;
-                document.getElementById("actions").innerHTML=save+document.getElementById(id).innerHTML ;
-                save = document.getElementById("actions").innerHTML ;
-                
+                actions+=document.getElementById(id).innerHTML ;
             }
             
             function clean () {
-                document.getElementById("actions").innerHTML = "" ;
-                document.getElementById("screen").innerHTML = "0" ;
+                actions = "";
+                result = "0";
             }
             
             function calc () {
-             document.getElementById("screen").innerHTML=eval(document.getElementById("actions").innerHTML);
-                
+                result=eval(actions);                
             }
